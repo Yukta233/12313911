@@ -1,0 +1,10 @@
+// src/utils/config.js
+
+const CONFIG = {
+  CLIENT_ID: "afbecb57-e677-403d-9364-77f616d29898",        // ← paste your client id
+  CLIENT_SECRET: "VKPMGTWKvupMVjXx", // ← paste your client secret
+  TOKEN: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJ5dWt0YTAxMTBAZ21haWwuY29tIiwiZXhwIjoxNzc4NzYyMDEzLCJpYXQiOjE3Nzg3NjExMTMsImlzcyI6IkFmZm9yZCBNZWRpY2FsIFRlY2hub2xvZ2llcyBQcml2YXRlIExpbWl0ZWQiLCJqdGkiOiIyODBmZDI1Ny1jNTI1LTQ1MmItYmI0MC1kNWJlZWNhMTZmZDMiLCJsb2NhbGUiOiJlbi1JTiIsIm5hbWUiOiJ5dWt0YSBzaHJlZSIsInN1YiI6ImFmYmVjYjU3LWU2NzctNDAzZC05MzY0LTc3ZjYxNmQyOTg5OCJ9LCJlbWFpbCI6Inl1a3RhMDExMEBnbWFpbC5jb20iLCJuYW1lIjoieXVrdGEgc2hyZWUiLCJyb2xsTm8iOiIxMjMxMzkxMSIsImFjY2Vzc0NvZGUiOiJUUnZaV3EiLCJjbGllbnRJRCI6ImFmYmVjYjU3LWU2NzctNDAzZC05MzY0LTc3ZjYxNmQyOTg5OCIsImNsaWVudFNlY3JldCI6IlZLUE1HVFdLdnVwTVZqWHgifQ.apEEI15d5s6N9vCf4PM42eVzl8DSbvlarPACA5gnFok",                 // ← paste your token
+  BASE_URL: "http://4.224.186.213/evaluation-service",
+};
+
+export default CONFIG;
